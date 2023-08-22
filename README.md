@@ -20,3 +20,4 @@
 11. Para eliminar una rama específica, podemos usar el comando: `git branch -D "nombreDeLaRama"`
 12. Si se  está  en una rama y se quieren  pasar los cambios directamente desde la rama x, a la rama principal usamos el comando: `git merge "nombreDeLaRamaDeLaCualQueremosTraerLosCambios"`
 13. Descartar un commit: `git revert "idDelCommit"`
+14. Usando el comando  `git push"` se lleva todo al repo remoto. 
